@@ -9,12 +9,8 @@ import com.google.common.collect.HashBasedTable;
 import com.google.common.collect.Table;
 import com.google.common.io.CharStreams;
 import com.google.common.io.InputSupplier;
-import com.oracle.jrockit.jfr.ContentType;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.io.Reader;
-import java.nio.charset.Charset;
 import java.util.*;
 
 /**
